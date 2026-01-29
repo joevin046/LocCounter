@@ -1,0 +1,14 @@
+CompileFlags:
+  Add:
+    - -std=c++23
+    - -Wall
+    - -Wextra
+    - -Wno-unused-parameter
+    - -Wno-missing-declarations
+Diagnostics:
+  UnusedIncludes: None
+  MissingIncludes: None
+  ClangTidy:
+    Remove:
+      - modernize-*
+      - readability-*
