@@ -1,5 +1,8 @@
 # LocCounter
 
+WATCH OUT!! THIS IS STILL SLOW BY ABOUT A FACTOR OF 500x IF WINDOWS ANTIVIRUS IS WATCHING THE FOLDER IT SCANS.
+Disable the AV or add a exception for raw performance with this tool.
+
 Counts lines in files and directories. Windows-only C++23 CLI using fast Win32 APIs.
 
 ## Build
